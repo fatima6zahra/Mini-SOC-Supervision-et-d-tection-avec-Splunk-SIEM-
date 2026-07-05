@@ -1,0 +1,16 @@
+Analyse SOC - Résultats
+
+1. IP suspecte : 10.0.0.5
+Observation : Plusieurs tentatives de connexion échouées ont été observées sur le compte admin depuis la même adresse IP.
+Hypothèse : Ce comportement peut indiquer une tentative d’attaque de type brute force.
+
+2. Comportement suspect :
+Des tentatives de connexion échouées ont été détectées pendant une plage horaire nocturne (entre 23:58 et 00:01) depuis l’adresse IP 203.0.113.77.
+Ce type d’activité est considéré comme inhabituel et potentiellement malveillant.
+
+3. Analyse globale :
+Les événements observés montrent des tentatives répétées d’accès non autorisé ciblant des comptes sensibles, ce qui peut représenter un risque de compromission du système.
+
+4. Événement critique :
+Un changement de privilèges a été observé (user=admin target=test) à 00:03.
+Cette action est sensible car elle peut indiquer une élévation de privilèges ou une activité administrative inhabituelle, surtout dans un contexte où plusieurs tentatives de connexion échouées ont été détectées.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,20 @@
+2026-03-15 08:12:01 INFO User login success user=amina ip=192.168.1.10
+2026-03-15 08:14:22 WARN Failed login user=admin ip=10.0.0.5
+2026-03-15 08:14:30 WARN Failed login user=admin ip=10.0.0.5
+2026-03-15 08:14:42 WARN Failed login user=admin ip=10.0.0.5
+2026-03-15 08:15:10 INFO User login success user=karim ip=192.168.1.15
+2026-03-15 08:17:55 WARN Failed login user=root ip=185.243.115.84
+2026-03-15 08:18:03 WARN Failed login user=root ip=185.243.115.84
+2026-03-15 08:18:11 WARN Failed login user=root ip=185.243.115.84
+2026-03-15 08:18:19 WARN Failed login user=root ip=185.243.115.84
+2026-03-15 08:19:30 ERROR Access denied user=test ip=172.16.0.8
+2026-03-15 08:21:44 INFO File opened user=amina file=report.pdf
+2026-03-15 08:25:00 WARN Failed login user=admin ip=10.0.0.5
+2026-03-15 08:25:08 WARN Failed login user=admin ip=10.0.0.5
+2026-03-15 08:30:14 INFO User login success user=admin ip=10.0.0.5
+2026-03-15 23:58:45 WARN Failed login user=guest ip=203.0.113.77
+2026-03-15 23:59:02 WARN Failed login user=guest ip=203.0.113.77
+2026-03-16 00:00:15 WARN Failed login user=guest ip=203.0.113.77
+2026-03-16 00:01:04 WARN Failed login user=guest ip=203.0.113.77
+2026-03-16 00:03:21 INFO User privileges changed user=admin target=test
+2026-03-16 00:10:44 ERROR Multiple authentication failures detected ip=203.0.113.77
