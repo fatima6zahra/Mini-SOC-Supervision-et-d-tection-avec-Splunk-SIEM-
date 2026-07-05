@@ -53,6 +53,8 @@ Les logs analysés couvrent une période de deux jours et contiennent des évén
 2026-03-16 00:10:44 ERROR Multiple authentication failures detected ip=203.0.113.77
 ```
 
+Le fichier brut est disponible ici : [logs.txt](logs.txt)
+
 ## Ingestion dans Splunk
 
 Les logs ont été envoyés dans Splunk via "Add Data > Upload", dans un index dédié `soc_logs`, avec le sourcetype `syslog`.
