@@ -31,8 +31,6 @@ docker run -d -p 8000:8000 -p 8088:8088 \
   --name splunk splunk/splunk:latest
 ```
 
-![Conteneur Splunk actif](docker-splunk-running.png)
-
 ## Source des données
 
 Les logs analysés couvrent une période de deux jours et contiennent des événements d'authentification :
